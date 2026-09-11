@@ -1,0 +1,6 @@
+{
+  "name": "RetailFlow - In-Store Self-Checkout & Retail Management",
+  "description": "Hybrid in-store self-checkout engine and retail inventory management system with instant optical barcode scanner, line-skip digital payment, and security exit pass verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
